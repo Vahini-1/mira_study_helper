@@ -8,10 +8,10 @@ MIRA_API_KEY = "sb-a318e89b2c2e683026b2d2787c4e7d30"
 
 
 MIRA_FLOW_URLS = {
-    "essay": "https://flows.mira.network/flows?author=vahini&flow=essay-checker",
-    "debugger": "https://flows.mira.network/flows?author=vahini&flow=code-debugger",
-    "qa": "https://flows.mira.network/flows?author=vahini&flow=qna-generator",
-    "concepts": "https://flows.mira.network/flows?author=vahini&flow=concept-explainer"
+    "essay": "https://flows.mira.network/flows?author=vahini&flow=essay-check",
+    "debugger": "https://flows.mira.network/flows?author=vahini&flow=code-debug",
+    "qa": "https://flows.mira.network/flows?author=vahini&flow=qanda-generator",
+    "concepts": "https://flows.mira.network/flows?author=vahini&flow=concept-explain"
 }
 
 headers = {
